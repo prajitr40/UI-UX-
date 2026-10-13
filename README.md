@@ -1,2 +1,2 @@
-# UI-UX-
+# UI AND UX DESIGN
 UI/UX Submission
